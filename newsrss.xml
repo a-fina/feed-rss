@@ -1,0 +1,407 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+	<title>MORE News - Test MARK v 2.0.2</title>
+	<link>https://www.unicreditgroup.eu/en/feed/RSSPressReleaseMobile.xml</link>
+	<description>Comunicati stampa di UniCredit Group</description>
+	<language>en</language>
+	<copyright>Copyright 2006 UniCredit Group</copyright>
+	<pubdate>Mon, 09 Sep 2013 14:32:52 +0200</pubdate>
+	<managingEditor>communication@unicreditgroup.eu</managingEditor>
+	<webMaster>communication@unicreditgroup.eu</webMaster>
+	<category>UniCredit Group MORE News</category>
+	<generator>UBIS</generator>
+	<docs>http://www.rssboard.org/rss-specification</docs>
+	<ttl>60</ttl>
+<item>
+	<title>test0509</title>
+	<description><![CDATA[<p>lorem ipsum<br>
+</p>
+]]></description>
+	<link>http://www.google.it</link>
+	<author>pippo</author>
+	<guid>583e6ed8-3322-4eeb-9e7f-0f1fe1382026</guid>
+	<pubDate>Fri, 06 Sep 2013 15:22:05 +0200</pubDate>
+
+</item>
+<item>
+	<title>Il formato della data é stato aggiornato</title>
+	<description><![CDATA[<p>Abbiaom un uovo formato che é :</p>
+<p><b>RFC-822 date-time</b></p>
+]]></description>
+	<link>http://feedvalidator.org/docs/howto/resources.html</link>
+	<author>alessio</author>
+	<guid>3d292651-e0c0-47c0-bdb1-4eee21731ba8</guid>
+	<pubDate>Wed, 04 Sep 2013 16:51:02 +0200</pubDate>
+
+</item>
+<item>
+	<title>Titolo3</title>
+	<description><![CDATA[<p>Ciao</p>
+<p><b>ciao ciao ciao</b></p>
+<p>&nbsp;</p>
+<p>RRRRRRRRRRRRR eeeeeeeeeeee<br>
+</p>
+]]></description>
+	<link>http://www.google.it</link>
+	<author>pippo</author>
+	<guid>7b15491a-4d20-4928-b05c-ead5d56d0a94</guid>
+	<pubDate>Fri, 23 Aug 2013 16:09:58 +0200</pubDate>
+
+</item>
+<item>
+	<title>Titolo2</title>
+	<description><![CDATA[<p>Ciao</p>
+<p><b>ciao ciao ciao</b></p>
+<p>eeeeeeeeeeeee</p>
+<p>Aaaaaaa bbbb</p>
+]]></description>
+	<link>http://www.google.it</link>
+	<author>pippo</author>
+	<guid>b23cf915-f512-48af-9341-571c1340e2f4</guid>
+	<pubDate>Fri, 23 Aug 2013 16:09:58 +0200</pubDate>
+
+</item>
+<item>
+	<title>Titolo1</title>
+	<description><![CDATA[aaaa]]></description>
+	<link>http://www.google.it</link>
+	<author>pippo</author>
+	<guid>64011375-7e20-45d9-a5ef-e0efad29b304</guid>
+	<pubDate>Fri, 23 Aug 2013 16:09:58 +0200</pubDate>
+
+</item>
+<item>
+	<title>Future: Dow Jones al Cbot a 14.940 punti (+0,21%)</title>
+	<description><![CDATA[&lt;p&gt;Dowjones&lt;/p&gt;
+&lt;p&gt;(END) Dow Jones Newswires&lt;/p&gt;
+&lt;p&gt;September 09, 2013 08:04 ET (12:04 GMT)&lt;/p&gt;
+&lt;p&gt;&copy; 2013 MF-Dow Jones News Srl.&lt;/p&gt;]]></description>
+	<link>http://interactive-data</link>
+	<author>interactive-data</author>
+	<guid>ea5651e5-ec27-48f2-9de0-2fde87aab9c0</guid>
+	<pubDate>Mon, 09 Sep 2013 14:04:23 +0200</pubDate>
+
+</item>
+<item>
+	<title>Future: Dow Jones al Cbot a 14.940 punti (+0,21%)</title>
+	<description><![CDATA[&lt;p&gt;Dowjones&lt;/p&gt;
+&lt;p&gt;(END) Dow Jones Newswires&lt;/p&gt;
+&lt;p&gt;September 09, 2013 08:04 ET (12:04 GMT)&lt;/p&gt;
+&lt;p&gt;&copy; 2013 MF-Dow Jones News Srl.&lt;/p&gt;]]></description>
+	<link>http://interactive-data</link>
+	<author>interactive-data</author>
+	<guid>a46c55c8-5482-4b65-ac9d-a8cc588e62ed</guid>
+	<pubDate>Mon, 09 Sep 2013 14:04:23 +0200</pubDate>
+
+</item>
+<item>
+	<title>Future: Dow Jones al Cbot a 14.940 punti (+0,21%)</title>
+	<description><![CDATA[&lt;p&gt;Dowjones&lt;/p&gt;
+&lt;p&gt;(END) Dow Jones Newswires&lt;/p&gt;
+&lt;p&gt;September 09, 2013 08:04 ET (12:04 GMT)&lt;/p&gt;
+&lt;p&gt;&copy; 2013 MF-Dow Jones News Srl.&lt;/p&gt;]]></description>
+	<link>http://interactive-data</link>
+	<author>interactive-data</author>
+	<guid>9561c139-d3b5-4ea5-9e2c-b32cbf6b0b47</guid>
+	<pubDate>Mon, 09 Sep 2013 14:04:23 +0200</pubDate>
+
+</item>
+<item>
+	<title>Future: Dow Jones al Cbot a 14.940 punti (+0,21%)</title>
+	<description><![CDATA[&lt;p&gt;Dowjones&lt;/p&gt;
+&lt;p&gt;(END) Dow Jones Newswires&lt;/p&gt;
+&lt;p&gt;September 09, 2013 08:04 ET (12:04 GMT)&lt;/p&gt;
+&lt;p&gt;&copy; 2013 MF-Dow Jones News Srl.&lt;/p&gt;]]></description>
+	<link>http://interactive-data</link>
+	<author>interactive-data</author>
+	<guid>41bf8e9f-6343-43a9-b651-9fe30a7ad83e</guid>
+	<pubDate>Mon, 09 Sep 2013 14:04:23 +0200</pubDate>
+
+</item>
+<item>
+	<title>Future: Dow Jones al Cbot a 14.940 punti (+0,21%)</title>
+	<description><![CDATA[&lt;p&gt;Dowjones&lt;/p&gt;
+&lt;p&gt;(END) Dow Jones Newswires&lt;/p&gt;
+&lt;p&gt;September 09, 2013 08:04 ET (12:04 GMT)&lt;/p&gt;
+&lt;p&gt;&copy; 2013 MF-Dow Jones News Srl.&lt;/p&gt;]]></description>
+	<link>http://interactive-data</link>
+	<author>interactive-data</author>
+	<guid>a01aae14-017d-41e4-9724-0080aa4ed4ed</guid>
+	<pubDate>Mon, 09 Sep 2013 14:04:23 +0200</pubDate>
+
+</item>
+<item>
+	<title>Future: Nasdaq100 al Globex a 3.146 punti (+0,53%)</title>
+	<description><![CDATA[&lt;p&gt;Dowjones&lt;/p&gt;
+&lt;p&gt;(END) Dow Jones Newswires&lt;/p&gt;
+&lt;p&gt;September 09, 2013 08:04 ET (12:04 GMT)&lt;/p&gt;
+&lt;p&gt;&copy; 2013 MF-Dow Jones News Srl.&lt;/p&gt;]]></description>
+	<link>http://interactive-data</link>
+	<author>interactive-data</author>
+	<guid>f0aa2972-1173-413d-9c5e-7ffb01546c0a</guid>
+	<pubDate>Mon, 09 Sep 2013 14:04:23 +0200</pubDate>
+
+</item>
+<item>
+	<title>Future: Dow Jones al Cbot a 14.940 punti (+0,21%)</title>
+	<description><![CDATA[&lt;p&gt;Dowjones&lt;/p&gt;
+&lt;p&gt;(END) Dow Jones Newswires&lt;/p&gt;
+&lt;p&gt;September 09, 2013 08:04 ET (12:04 GMT)&lt;/p&gt;
+&lt;p&gt;&copy; 2013 MF-Dow Jones News Srl.&lt;/p&gt;]]></description>
+	<link>http://interactive-data</link>
+	<author>interactive-data</author>
+	<guid>a376d928-5415-470b-b930-0028b2c84fce</guid>
+	<pubDate>Mon, 09 Sep 2013 14:04:23 +0200</pubDate>
+
+</item>
+<item>
+	<title>Future: Dow Jones al Cbot a 14.940 punti (+0,21%)</title>
+	<description><![CDATA[&lt;p&gt;Dowjones&lt;/p&gt;
+&lt;p&gt;(END) Dow Jones Newswires&lt;/p&gt;
+&lt;p&gt;September 09, 2013 08:04 ET (12:04 GMT)&lt;/p&gt;
+&lt;p&gt;&copy; 2013 MF-Dow Jones News Srl.&lt;/p&gt;]]></description>
+	<link>http://interactive-data</link>
+	<author>interactive-data</author>
+	<guid>7de305b1-17b0-43db-a539-dc85cd71ae84</guid>
+	<pubDate>Mon, 09 Sep 2013 14:04:23 +0200</pubDate>
+
+</item>
+<item>
+	<title>Future: Dow Jones al Cbot a 14.940 punti (+0,21%)</title>
+	<description><![CDATA[&lt;p&gt;Dowjones&lt;/p&gt;
+&lt;p&gt;(END) Dow Jones Newswires&lt;/p&gt;
+&lt;p&gt;September 09, 2013 08:04 ET (12:04 GMT)&lt;/p&gt;
+&lt;p&gt;&copy; 2013 MF-Dow Jones News Srl.&lt;/p&gt;]]></description>
+	<link>http://interactive-data</link>
+	<author>interactive-data</author>
+	<guid>5fadce82-23f6-4ebc-8ce6-20efa8eec17b</guid>
+	<pubDate>Mon, 09 Sep 2013 14:04:23 +0200</pubDate>
+
+</item>
+<item>
+	<title>Future: Dow Jones al Cbot a 14.940 punti (+0,21%)</title>
+	<description><![CDATA[&lt;p&gt;Dowjones&lt;/p&gt;
+&lt;p&gt;(END) Dow Jones Newswires&lt;/p&gt;
+&lt;p&gt;September 09, 2013 08:04 ET (12:04 GMT)&lt;/p&gt;
+&lt;p&gt;&copy; 2013 MF-Dow Jones News Srl.&lt;/p&gt;]]></description>
+	<link>http://interactive-data</link>
+	<author>interactive-data</author>
+	<guid>9085336b-cc80-4a1d-a42d-5dd95e9cb0f6</guid>
+	<pubDate>Mon, 09 Sep 2013 14:04:23 +0200</pubDate>
+
+</item>
+<item>
+	<title>Future: Dow Jones al Cbot a 14.940 punti (+0,21%)</title>
+	<description><![CDATA[&lt;p&gt;Dowjones&lt;/p&gt;
+&lt;p&gt;(END) Dow Jones Newswires&lt;/p&gt;
+&lt;p&gt;September 09, 2013 08:04 ET (12:04 GMT)&lt;/p&gt;
+&lt;p&gt;&copy; 2013 MF-Dow Jones News Srl.&lt;/p&gt;]]></description>
+	<link>http://interactive-data</link>
+	<author>interactive-data</author>
+	<guid>f1576404-4b9b-4571-9226-371b1f2c8670</guid>
+	<pubDate>Mon, 09 Sep 2013 14:04:23 +0200</pubDate>
+
+</item>
+<item>
+	<title>Future: S&amp;amp;amp;P 500 al Globex a 1.657,2 punti (+0,22%)</title>
+	<description><![CDATA[&lt;p&gt;Dowjones&lt;/p&gt;
+&lt;p&gt;(END) Dow Jones Newswires&lt;/p&gt;
+&lt;p&gt;September 09, 2013 08:04 ET (12:04 GMT)&lt;/p&gt;
+&lt;p&gt;&copy; 2013 MF-Dow Jones News Srl.&lt;/p&gt;]]></description>
+	<link>http://interactive-data</link>
+	<author>interactive-data</author>
+	<guid>d862ae44-190f-4468-bfe9-969c53fcb0ec</guid>
+	<pubDate>Mon, 09 Sep 2013 14:04:02 +0200</pubDate>
+
+</item>
+<item>
+	<title>Borsa Londra: Ftse 100 tratta in calo dello 0,4%</title>
+	<description><![CDATA[&lt;p&gt;MILANO (MF-DJ)--L'indice Ftse 100 della Borsa du Londra tratta in calo dello 0,4% a 6522,11 punti.&lt;/p&gt;
+&lt;p&gt;Gli occhi degli investitori restano puntati sul voto del Congresso in merito all'intervento militare in Siria.&lt;/p&gt;
+&lt;p&gt;In rosso Bg Group che perde il 4,5%, dopo che la societa' ha annunciato di prevedere un calo sulla produzione nel 2014.&lt;/p&gt;
+&lt;p&gt;In territorio positivo Burberry che guadagna l'1,9%. red/est/rma&lt;/p&gt;
+&lt;p&gt;(END) Dow Jones Newswires&lt;/p&gt;
+&lt;p&gt;September 09, 2013 07:21 ET (11:21 GMT)&lt;/p&gt;
+&lt;p&gt;&copy; 2013 MF-Dow Jones News Srl.&lt;/p&gt;]]></description>
+	<link>http://interactive-data</link>
+	<author>interactive-data</author>
+	<guid>a1c03741-ef80-4e5f-a9fd-303d031342be</guid>
+	<pubDate>Mon, 09 Sep 2013 13:21:14 +0200</pubDate>
+
+</item>
+<item>
+	<title>Future: Dow Jones al Cbot a 14.940 punti (+0,21%)</title>
+	<description><![CDATA[&lt;p&gt;Dowjones&lt;/p&gt;
+&lt;p&gt;(END) Dow Jones Newswires&lt;/p&gt;
+&lt;p&gt;September 09, 2013 07:03 ET (11:03 GMT)&lt;/p&gt;
+&lt;p&gt;&copy; 2013 MF-Dow Jones News Srl.&lt;/p&gt;]]></description>
+	<link>http://interactive-data</link>
+	<author>interactive-data</author>
+	<guid>1e391a7f-be80-4d52-983b-67968c084684</guid>
+	<pubDate>Mon, 09 Sep 2013 13:03:50 +0200</pubDate>
+
+</item>
+<item>
+	<title>Future: Nasdaq100 al Globex a 3.146 punti (+0,53%)</title>
+	<description><![CDATA[&lt;p&gt;Dowjones&lt;/p&gt;
+&lt;p&gt;(END) Dow Jones Newswires&lt;/p&gt;
+&lt;p&gt;September 09, 2013 07:03 ET (11:03 GMT)&lt;/p&gt;
+&lt;p&gt;&copy; 2013 MF-Dow Jones News Srl.&lt;/p&gt;]]></description>
+	<link>http://interactive-data</link>
+	<author>interactive-data</author>
+	<guid>fbc61e7b-5872-48f6-981b-9ca538de0abf</guid>
+	<pubDate>Mon, 09 Sep 2013 13:03:49 +0200</pubDate>
+
+</item>
+<item>
+	<title>Future: S&amp;amp;amp;P 500 al Globex a 1.656 punti (+0,17%)</title>
+	<description><![CDATA[&lt;p&gt;Dowjones&lt;/p&gt;
+&lt;p&gt;(END) Dow Jones Newswires&lt;/p&gt;
+&lt;p&gt;September 09, 2013 07:03 ET (11:03 GMT)&lt;/p&gt;
+&lt;p&gt;&copy; 2013 MF-Dow Jones News Srl.&lt;/p&gt;]]></description>
+	<link>http://interactive-data</link>
+	<author>interactive-data</author>
+	<guid>ec6871db-d2d8-4202-856e-432030718774</guid>
+	<pubDate>Mon, 09 Sep 2013 13:03:49 +0200</pubDate>
+
+</item>
+<item>
+	<title>BORSA: Ftse Mib +0,4%, brilla Fiat</title>
+	<description><![CDATA[&lt;p&gt;MILANO (MF-DJ)--Milano resta positiva e guadagna lo 0,4% a 17115 punti. In calo invece il Cac-40 (-0,43%), il Ftse 100 (-0,39%), il Dax (-0,01%) e l'Ibex (-0,5%).&lt;/p&gt;
+&lt;p&gt;&amp;quot;Il Ftse Mib si mantiene abbastanza stabile e la giornata dovrebbe restare tranquilla anche nel pomeriggio, salvo sorprese sul fronte Siria, considerando soprattutto che non ci sono in agenda dati macro Usa rilevanti&amp;quot;, ha affermato un esperto contattato da MF-Dowjones, aggiungendo che &amp;quot;la resistenza piu' vicina da monitorare si trova a quota 17150-17170 punti&amp;quot;.&lt;/p&gt;
+&lt;p&gt;Ottima performance quella di Fiat (+4,13%) che e' ben impostata tecnicamente e va ad amplificare i movimenti positivi del settore automobilistico europeo. Lo Stoxx Europe 600 Auto e componentistica in Europa e' infatti al momento il comparto migliore (+0,97%).&lt;/p&gt;
+&lt;p&gt;In luce anche Fonsai (+3,99% a 1,537 euro) che come nota un analista ha accelerato al rialzo dopo la rottura del massimo del 3 settembre posto a 1,5 euro e Mediaset (+3,06%).&lt;/p&gt;
+&lt;p&gt;Proseguono poi gli acquisti sui titoli del settore bancario: Unicredit +2,28%, Ubi B. +1,83%, Intesa Sanpaolo +1,56%, Mediobanca +1,3%, B.P.Milano +1,84%, B.P.E.Romagna +1,08% e B.Popolare +0,74%. Il differenziale su decennale Btp/Bund e' a quota 251 punti base.&lt;/p&gt;
+&lt;p&gt;Sempre in rosso B.Mps (-3,33% a 0,209 euro) con gli investitori che si interrogano sulle sorti del prezzo del titolo dopo aver appreso che l'aumento di capitale dell'istituto potrebbe arrivare anche a 2,5 mld euro. Gli esperti di Mediobanca Securities confermano sul titolo raccomandazione (neutral) e target price (0,2 euro/azione) spiegando che le loro stime incorporano gia' un deficit di capitale di 2,75 mld euro ipotizzando una riserva available for sale sull'esposizione ai titoli di Stato negativa per 1,6 mld euro.&lt;/p&gt;
+&lt;p&gt;Tra i titoli minori si segnala Indesit (+7,59% a 7,37 euro) sostenuta dalle affermazioni dell'a.d. Marco Milani che ha ribadito la necessita' del piano di riorganizzazione, necessario per rendere sostenibile nel lungo termine la presenza del gruppo in Italia. sda&lt;/p&gt;
+&lt;p&gt;(END) Dow Jones Newswires&lt;/p&gt;
+&lt;p&gt;September 09, 2013 06:49 ET (10:49 GMT)&lt;/p&gt;
+&lt;p&gt;&copy; 2013 MF-Dow Jones News Srl.&lt;/p&gt;]]></description>
+	<link>http://interactive-data</link>
+	<author>interactive-data</author>
+	<guid>f14786bb-744e-4872-a50e-93b4ea028515</guid>
+	<pubDate>Mon, 09 Sep 2013 12:49:29 +0200</pubDate>
+
+</item>
+<item>
+	<title>Borsa Hong Kong: Hang Seng chiude in rialzo delo 0,6%</title>
+	<description><![CDATA[&lt;p&gt;HONG KONG (MF-DJ)--L'indice Hang Seng della Borsa di Hong Kong termina le contrattazioni in rialzo dello 0,6% a quota 22.750,65 punti, in scia alle incertezze sulle tempistiche di riduzione del programma di acquisto bond da parte della Fed.&lt;/p&gt;
+&lt;p&gt;Il controvalore degli scambi si e' attestato a 67,1 mld hkd (8,66 mld usd).&lt;/p&gt;
+&lt;p&gt;In rosso Power Assets, che cede lo 0,7% a 67,85 hkd e Sino Land, che scivola dello 0,7% a 10,90 hkd.&lt;/p&gt;
+&lt;p&gt;Molte delle societa' quotate su Hong Kong hanno pero' tratto beneficio dai positivi dati cinesi sull'inflazione e sulle esportazioni, che hanno mostrato una stabilizzazione dell'economia.&lt;/p&gt;
+&lt;p&gt;L'indice Hang Seng China Enterprises archivia la seduta in rialzo dell'1,9% a quota 10.528,69 punti. red/est/sdp&lt;/p&gt;
+&lt;p&gt;(END) Dow Jones Newswires&lt;/p&gt;
+&lt;p&gt;September 09, 2013 06:48 ET (10:48 GMT)&lt;/p&gt;
+&lt;p&gt;&copy; 2013 MF-Dow Jones News Srl.&lt;/p&gt;]]></description>
+	<link>http://interactive-data</link>
+	<author>interactive-data</author>
+	<guid>1d9c3e5c-e6b0-434a-bf30-1f379b5323f8</guid>
+	<pubDate>Mon, 09 Sep 2013 12:48:17 +0200</pubDate>
+
+</item>
+<item>
+	<title>Borsa Shanghai: Composite chiude in rialzo del 3,4%</title>
+	<description><![CDATA[&lt;p&gt;SHANGHAI (MF-DJ)--L'indice Composite della Borsa di Shanghai termina le contrattazioni in rialzo del 3,4% a quota 2.212,52 punti, dopo l'annuncio di alcuni dati che hanno mostrato una stabilizzazione dell'economia.&lt;/p&gt;
+&lt;p&gt;Trend analogo per l'indice Shenzhen Composite, che archivia la seduta in rialzo dello 0,9% a quota 1039,91 punti.&lt;/p&gt;
+&lt;p&gt;Ad agosto, l'inflazione ha visto in Cina un incremento del 2,6% a/a, in leggero calo rispetto al dato di luglio (+2,7%).&lt;/p&gt;
+&lt;p&gt;Le esportazioni hanno continuato a guadagnare slancio, registrando lo scorso mese un aumento del 7,2% a/a.&lt;/p&gt;
+&lt;p&gt;Performance positiva per il comparto bancario, con 5 dei 16 istituti di credito quotati sul listino cinese, tra cui Agricultural Bank of China, Shanghai Pudong Development Bank e Bank of Communications, che hanno toccato la soglia limite di rialzo del 10%. red/est/sdp&lt;/p&gt;
+&lt;p&gt;(END) Dow Jones Newswires&lt;/p&gt;
+&lt;p&gt;September 09, 2013 05:39 ET (09:39 GMT)&lt;/p&gt;
+&lt;p&gt;&copy; 2013 MF-Dow Jones News Srl.&lt;/p&gt;]]></description>
+	<link>http://interactive-data</link>
+	<author>interactive-data</author>
+	<guid>df0007be-f43a-4f97-9536-64c53d0f16a1</guid>
+	<pubDate>Mon, 09 Sep 2013 11:39:38 +0200</pubDate>
+
+</item>
+<item>
+	<title>Borsa Tokyo: Nikkei chiude in rialzo del 2,5%</title>
+	<description><![CDATA[&lt;p&gt;MILANO (MF-DJ)--Chiusura positiva per gli indici della Borsa di Tokyo, in scia all'annuncio che Tokyo ospitera' le Olimpiadi del 2020 e all'aumento della fiducia sulla ripresa economica dopo la revisione al rialzo del Pil giapponese.&lt;/p&gt;
+&lt;p&gt;L'indice Nikkei chiude le contrattazioni in rialzo del 2,5% a quota 14.205,23 punti.&lt;/p&gt;
+&lt;p&gt;Analogo trend per l'indice Topix che archivia la seduta in rialzo del 2,2% a 1.173 punti, con 32 dei 33 sottoindici in territorio positivo.&lt;/p&gt;
+&lt;p&gt;Bene il comparto delle costruzioni con Kajima che sale del 9,7% a 396 yen, Taisei che balza del 14% a 463 yen, Sumitomo Realty &amp;amp; Development che cresce del 4,7% a 4.755 yen e Mitsui Fudosan che guadagna il 6,4% a 3.430 yen.&lt;/p&gt;
+&lt;p&gt;Chiusura tonica per Dentsu che avanza del 7,4% a 3.500 yen, Imperial Hotel che guadagna il 19% a 4.355 yen e Security Services Secom che sale del 3,6% a 6.120 yen.&lt;/p&gt;
+&lt;pre&gt;  In territorio positivo Fast Retailing in rialzo del 3,3% a 34.050 yen e Fanuc
+che cresce del 3,1% a 16.580 yen.
+  In rosso Sumco che scende del 17% a 734 yen, dopo che la societa' ha rivisto
+al ribasso le previsioni sull'utile netto per l'anno fiscale 2013. red/est/rma&lt;/pre&gt;
+&lt;p&gt;(END) Dow Jones Newswires&lt;/p&gt;
+&lt;p&gt;September 09, 2013 05:17 ET (09:17 GMT)&lt;/p&gt;
+&lt;p&gt;&copy; 2013 MF-Dow Jones News Srl.&lt;/p&gt;]]></description>
+	<link>http://interactive-data</link>
+	<author>interactive-data</author>
+	<guid>d058bf57-5997-4c5e-862a-1935b244d43f</guid>
+	<pubDate>Mon, 09 Sep 2013 11:17:37 +0200</pubDate>
+
+</item>
+<item>
+	<title>BORSA: p.Affari positiva, brilla Fonsai</title>
+	<description><![CDATA[&lt;p&gt;MILANO (MF-DJ)--Il Ftse Mib e' in rialzo dello 0,36% a 17107 punti. Il Cac-40 cede invece lo 0,17%, il Ftse 100 lo 0,1%, l'Ibex lo 0,27%, mentre il Dax segna un +0,3%.&lt;/p&gt;
+&lt;p&gt;&amp;quot;I mercati sono abbastanza tranquilli e finche' non si sbloccano alcune situazioni come quella in Siria e l'incertezza politica italiana non ci saranno a mio avviso grandi cambiamenti&amp;quot;, afferma un esperto contattato da MF-Dowjones.&lt;/p&gt;
+&lt;p&gt;Brilla Fonsai (+3,92% a 1,536 euro) che come nota un analista ha accelerato al rialzo dopo la rottura del massimo del 3 settembre posto a 1,5 euro che ha portato l'azione a testare l'importante livello di   1,525-535 euro.&lt;/p&gt;
+&lt;p&gt;Positivo il settore bancario: Unicredit +2,01%, Ubi B. +1,61%, Intesa Sanpaolo +1,6%, Mediobanca +1,5%, B.P.Milano +1,36%, B.P.E.Romagna +1,08% e B.Popolare +0,46%.&lt;/p&gt;
+&lt;p&gt;In rosso solo B.Mps (-3,15% a 0,2094 euro) con l'aumento di capitale che potrebbe arrivare a 2,5 mld euro, ben al di sopra di quello che poteva attendersi il mercato.&lt;/p&gt;
+&lt;p&gt;Sul resto del listino si segnala Recordati (+1,22%) che ha firmato una serie di accordi per l'acquisizione del 100% del capitale di Laboratorios Casen Fleet S.L.U., societa' farmaceutica spagnola con sede a Madrid e stabilimento produttivo a Utebo. sda&lt;/p&gt;
+&lt;p&gt;(END) Dow Jones Newswires&lt;/p&gt;
+&lt;p&gt;September 09, 2013 05:04 ET (09:04 GMT)&lt;/p&gt;
+&lt;p&gt;&copy; 2013 MF-Dow Jones News Srl.&lt;/p&gt;]]></description>
+	<link>http://interactive-data</link>
+	<author>interactive-data</author>
+	<guid>19238b8c-1d88-4737-a67f-85998b4e6d39</guid>
+	<pubDate>Mon, 09 Sep 2013 11:04:58 +0200</pubDate>
+
+</item>
+<item>
+	<title>Borsa Sydney: S&amp;amp;amp;P/Asx 200 chiude in rialzo dello 0,7%</title>
+	<description><![CDATA[&lt;p&gt;MELBOURNE (MF-DJ)--L'indice S&amp;amp;P/Asx 200 della Borsa di Sydney termina le contrattazioni in rialzo dello 0,7% a quota 5181,5 punti, in scia ai guadagni messi a segno dal comparto bancario, dell'energia e delle risorse di base.&lt;/p&gt;
+&lt;p&gt;Ad aiutare il listino anche il risultato delle elezioni nel Paese, conclusesi con la vincita della coalizione conservatrice, che ha posto fine a mesi di incertezze politiche.&lt;/p&gt;
+&lt;p&gt;Bene Bhp Billiton e Rio Tinto, che guadagnano entrambe l'1,4%.&lt;/p&gt;
+&lt;p&gt;In rosso Fortescue Metals, che cede il 2% a seguito dell'indebolimento dei prezzi dei minerali del ferro.&lt;/p&gt;
+&lt;p&gt;Chiusura tonica per Newcrest Mining, che avanza del 3,4%.&lt;/p&gt;
+&lt;p&gt;Performance positiva per il comparto bancario con Anz, Commonwealth Bank, National Australia Bank e Westpac, che salgono tra lo 0,6% e l'1,3%.&lt;/p&gt;
+&lt;p&gt;red/est/sdp&lt;/p&gt;
+&lt;p&gt;(END) Dow Jones Newswires&lt;/p&gt;
+&lt;p&gt;September 09, 2013 03:59 ET (07:59 GMT)&lt;/p&gt;
+&lt;p&gt;&copy; 2013 MF-Dow Jones News Srl.&lt;/p&gt;]]></description>
+	<link>http://interactive-data</link>
+	<author>interactive-data</author>
+	<guid>ade827e4-a9ad-4f42-b361-44b2fe8ab231</guid>
+	<pubDate>Mon, 09 Sep 2013 09:59:09 +0200</pubDate>
+
+</item>
+<item>
+	<title>Borsa Londra: Ftse 100 cede lo 0,1% su newsflow corporate</title>
+	<description><![CDATA[&lt;p&gt;MILANO (MF-DJ)--L'indice Ftse 100 di Londra cede lo 0,1% a 6.541,15 punti in una giornata in cui il newsflow corporate sta pesando sul listino principale, con alcuni titoli sotto pressione.&lt;/p&gt;
+&lt;p&gt;In particolare, le vendite si stanno concentrando su Bg Group, che lascia sul terreno il 4% dopo aver tagliato le guidance sulla produzione dell'esercizio fiscale 2014. Sottotono anche Tate &amp;amp; Lyle (-3,2%) dopo aver ricevuto un downgrade a sell da Ubs.&lt;/p&gt;
+&lt;p&gt;L'agenda macroeconomica domestica non prevede appuntamenti di rilievo. red/est/car&lt;/p&gt;
+&lt;p&gt;(END) Dow Jones Newswires&lt;/p&gt;
+&lt;p&gt;September 09, 2013 03:47 ET (07:47 GMT)&lt;/p&gt;
+&lt;p&gt;&copy; 2013 MF-Dow Jones News Srl.&lt;/p&gt;]]></description>
+	<link>http://interactive-data</link>
+	<author>interactive-data</author>
+	<guid>4790944e-7c99-46e2-bd49-d5fa2c728d33</guid>
+	<pubDate>Mon, 09 Sep 2013 09:47:42 +0200</pubDate>
+
+</item>
+<item>
+	<title>Borse Ue: Euro Stoxx 50 tratta in calo dello 0,2%</title>
+	<description><![CDATA[&lt;p&gt;MILANO (MF-DJ)--L'indice Euro Stoxx 50 tratta in calo dello 0,2% a 2797,64 punti, in scia ai timori sulla situazione in Siria.&lt;/p&gt;
+&lt;pre&gt;  Il sotto-indice Stoxx 600 nel settore oil &amp;amp; gas scende dello 0,7%, mentre nel
+comparto delle risorse di base tratta in rialzo dello 0,7%, dopo i dati sulla
+bilancia commerciale cinese.&lt;/pre&gt;
+&lt;p&gt;Munich Re guadagna il 2,8%, dopo l'upgrade operato da un broker, mentre Danone perde l'1,6%.&lt;/p&gt;
+&lt;p&gt;red/est/rma&lt;/p&gt;
+&lt;p&gt;(END) Dow Jones Newswires&lt;/p&gt;
+&lt;p&gt;September 09, 2013 03:35 ET (07:35 GMT)&lt;/p&gt;
+&lt;p&gt;&copy; 2013 MF-Dow Jones News Srl.&lt;/p&gt;]]></description>
+	<link>http://interactive-data</link>
+	<author>interactive-data</author>
+	<guid>ec9264ec-4214-4878-9dc5-4c17a5cd088e</guid>
+	<pubDate>Mon, 09 Sep 2013 09:35:55 +0200</pubDate>
+
+</item>
+
+</channel>
+</rss>
